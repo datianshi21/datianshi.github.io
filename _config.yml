@@ -1,9 +1,9 @@
 # Site settings
 title: BY Blog
-SEOTitle: 大天使的博客 | BY Blog
+SEOTitle: 大天使的博客 | DATIANSHI's BLOG
 header-img: img/post-bg-desk.jpg
 email: datianshi21@126.com
-description: "Every failure is leading towards success."
+description: "Enthusiastic in AI and want to learn AI knowledge from all of you!"
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://datianshi21.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
