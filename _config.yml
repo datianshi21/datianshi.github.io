@@ -19,10 +19,11 @@ sidebar-avatar: /img/mitaomao.gif      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     datianshi21
-zhihu_username:     datianshi21
+#zhihu_username:     datianshi21
 github_username:    datianshi21
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 #twitter_username:   datianshi21
+linkedin_username: Zuyan Jiang
 
 
 
@@ -109,7 +110,9 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
-    }
+    },{
+        title: "Linkedin",
+        href: "https://www.linkedin.com/"
 ]
 
 theme: jekyll-theme-slate
